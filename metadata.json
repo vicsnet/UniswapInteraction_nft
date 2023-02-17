@@ -1,0 +1,12 @@
+{
+    "description": "Web3 Scarce Image", 
+    "external_url": "https://openseacreatures.io/3", 
+    "image": "QmSNDEaXnZiusZb2t76TNV7NsiL8JiLmwzp2y6jUodwePy", 
+    "name": "WEB3",
+    "attributes": [
+        {
+            "trait_type": "Expression", 
+            "value": "coolness"
+          }
+    ]
+  }
